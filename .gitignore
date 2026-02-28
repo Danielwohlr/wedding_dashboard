@@ -5,3 +5,4 @@ __pycache__/
 # Ignore all files in mongo_dump and data directories
 mongo_dump/
 data/
+.env
